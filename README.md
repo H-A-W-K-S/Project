@@ -1,4 +1,4 @@
-### MergeSplit Tile Game
+### MergeSplit Game
 
 We have decided to create MergeSplit, which will be a point based game that posts a user's highest score if that score is higher than the all-time record. The game will be played on an 8x8 board of tiles. The objective of MergeSplit will be to merge all tiles into one large tile.
 

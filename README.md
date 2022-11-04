@@ -14,8 +14,10 @@ The target demographic for this app will be people who enjoy solving puzzles, bu
 
 This game is unique. Most games lean either towards strategy or impulse-driven gameplay. This game finds the balance between both.
 
+### Links to other repos:
+
 [Client repo](https://github.com/H-A-W-K-S/Client)
 
 [Service repo](https://github.com/H-A-W-K-S/Service)
 
-Team members: Caleb Albrecht, Haim Hong, Nathanael Kastner, Papa Kwesi Sterlin, Jacob Westra
+### Team members: Caleb Albrecht, Haim Hong, Nathanael Kastner, Papa Kwesi Sterlin, Jacob Westra

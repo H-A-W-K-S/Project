@@ -1,0 +1,9 @@
+User Stories, Revised 11/19/22
+* View the scores on the leaderboard
+    * As a competitive MergeSplit player currently at Calvin, I want to view the scores of other people so I can see how good I'm doing in relation to them.
+* Know how to play the game
+    * As a potential player somewhere in the United States who is currently interested in MergeSplit, I want to view the tutorial so I can play the game.
+* Know who created the game
+    * As a fan of MergeSplit at Calvin who is amazed by the quality and workmanship of the game, I want to see the credits so I can know who the developers are.
+* Use the UI
+    * As a MergeSplit user from any place currently using the app, I want to navigate through the UI so I can use the app's features better.

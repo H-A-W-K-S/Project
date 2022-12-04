@@ -2,7 +2,7 @@ MergeSplit Tutorial
 
 Welcome to MergeSplit! This is an exciting color based tile merging game. Upon opening the game, you will be presented with a game board containing an 8 by 8 grid of differently colored tiles. Your job will be to click on small clusters of tiles with matching colors until they merge into bigger tiles of the same color. If you click again on the newly merged tile, it will break apart into four smaller tiles of the original size. Use merging and splitting strategically until you have converted the game board into a grid of 64 similarly colored tiles. Once you complete this task, you have won the game!
 
-How to Navigate the App:
+How to Navigate the App: 
 
 As you have seen, opening this app takes you to a welcome page with six buttons. The big button on the left will open the game board and the buttons on the right will take you to the leaderboard, about page, and settings page. You are on the tutorial page. Click the back button at the top of this page to go back to the welcome page.
 
